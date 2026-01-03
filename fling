@@ -1,13 +1,3 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
--- =================================
--- DEV -- > R-77 ; DISCORD - tankuct.
--- =================================
-
 local Targets = {}
 local Players = game:GetService("Players")
 local Player = Players.LocalPlayer
